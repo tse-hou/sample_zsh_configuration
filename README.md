@@ -59,3 +59,7 @@ chsh -s $(which zsh)
 
 ## Reload
 Everytime you make a change to `.zshrc` or `.zprofile`, use `exec zsh` to reload and make it works.
+
+## Reference
+- how to change your prompt color
+	- https://github.com/romkatv/powerlevel10k/blob/master/README.md#how-do-i-change-prompt-colors

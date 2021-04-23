@@ -1,4 +1,5 @@
 # zsh_configuration
+![image](https://user-images.githubusercontent.com/47828752/115822625-6f284a00-a437-11eb-9a9d-32a533324472.png)
 
 ## Prerequisite
 - Install zsh and zplug
